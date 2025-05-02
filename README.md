@@ -1,2 +1,3 @@
 # ideal-simplified
-The simplest version of ideal available
+
+The simplest version of ideal available.
